@@ -24,7 +24,7 @@ ATL_TEAMS_DICT = {'Intake': [INATHANSON, JGILBREATH],
 
 SITES = {'SMF': SMF_TEAMS_DICT,
          'ATL': ATL_TEAMS_DICT,
-         'DC3': None}
+         'RIC': None}
 
 
 def present_menu(menu_items_dict, prompt):
