@@ -1,4 +1,3 @@
-# Author: 	Sam Ransford
 # Creation Date:06-07-2016
 
 # Variables
